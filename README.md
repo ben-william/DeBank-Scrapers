@@ -1,6 +1,10 @@
 # DeBank Scraping
 Two scraping scripts using Selenium, that scrape the popular wallet tracking website DeBank.
 
+```
+Note: I am aware this project could use considerable refactoring to make it more robust, implement OOP, etc. It is a prototype of a product I would like to eventually build, and only run locally for testing purposes. I am currently focused on exploring new concepts to build more rather than perfecting what currently exists. 
+```
+
 ## Dependencies
 
 ### Selenium / Chrome
